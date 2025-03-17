@@ -24,6 +24,7 @@ img {
     justify-content: center;
     align-items: center;
     color: white;
+    text-shadow: 3, 7, 7;
     text-align: center;
     position: relative;
 }
